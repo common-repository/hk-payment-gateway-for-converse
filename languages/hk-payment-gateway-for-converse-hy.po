@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-11 19:45+0000\n"
+"PO-Revision-Date: 2022-04-17 17:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Հայերեն\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hy\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: wc-hkdigital-converse-gateway.php:646
+msgid ")"
+msgstr ")"
+
+#: wc-hkdigital-converse-gateway.php:930
+msgid "Activate shopping cart function"
+msgstr "Ակտիվացնել զամբյուղի պարունակության գործառույթը"
+
+#: wc-hkdigital-converse-gateway.php:141 wc-hkdigital-converse-gateway.php:165
+#: wc-hkdigital-converse-gateway.php:878
+msgid "Add a credit card"
+msgstr "Կցագրել բանկային քարտը"
+
+#: wc-hkdigital-converse-gateway.php:1129
+msgid ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations."
+msgstr ""
+"Հավելվածը օգտագործելուց առաջ անհրաժեշտ է կապ հաստատել բանկի հետ համապատասխան "
+"կարգավորումները ստանալու համար։"
+
+#: wc-hkdigital-converse-gateway.php:906
+msgid "Binding Password"
+msgstr "Binding Գաղտնաբառ"
+
+#: wc-hkdigital-converse-gateway.php:902
+msgid "Binding User Name"
+msgstr "Binding Մուտքանուն"
+
+#: wc-hkdigital-converse-gateway.php:929
+msgid "Cart totals"
+msgstr "Զամբյուղի պարունակություն"
+
+#: wc-hkdigital-converse-gateway.php:1029
+msgid "Connection error."
+msgstr "Connection error."
+
+#: wc-hkdigital-converse-gateway.php:1126
+msgid "CONVERSE BANK"
+msgstr ""
+"CONVERSE BANK\n"
+
+#: wc-hkdigital-converse-gateway.php:835
+msgid "Debug Log"
+msgstr "Կարգավիճակի մատյան"
+
+#: wc-hkdigital-converse-gateway.php:807
+msgid "Description"
+msgstr "Նկարագրություն"
+
+#: wc-hkdigital-converse-gateway.php:869
+msgid "Enable \"Save Card\" function"
+msgstr "Միացնել քարտի պահպանման հնարավորությունը"
+
+#: wc-hkdigital-converse-gateway.php:837
+msgid "Enable debug mode"
+msgstr "Միացնել մատյանը"
+
+#: wc-hkdigital-converse-gateway.php:828
+msgid "Enable Multi-Currency"
+msgstr "Միացնել բազմարժույթի հնարավորությունը"
+
+#: wc-hkdigital-converse-gateway.php:860
+msgid "Enable payment confirmation function"
+msgstr "Միացնել վճարման հաստատաման գործառույթը"
+
+#: wc-hkdigital-converse-gateway.php:793
+msgid "Enable payment gateway"
+msgstr "Միացնել վճարային համակարգը"
+
+#: wc-hkdigital-converse-gateway.php:872
+msgid "Enable Save Card"
+msgstr "Միացնել քարտի պահպանման հնարավորությունը"
+
+#: wc-hkdigital-converse-gateway.php:843
+#| msgid "Enable Test Mode"
+msgid "Enable test Mode"
+msgstr "Միացնել թեստային տարբերակը"
+
+#: wc-hkdigital-converse-gateway.php:792
+msgid "Enable/Disable"
+msgstr "Միացնել/անջատել"
+
+#: wc-hkdigital-converse-gateway.php:856 wc-hkdigital-converse-gateway.php:908
+msgid "Enter password"
+msgstr "Մուտքագրել գաղտնաբառը"
+
+#: wc-hkdigital-converse-gateway.php:774 wc-hkdigital-converse-gateway.php:1181
+msgid "here"
+msgstr "այստեղ"
+
+#: wc-hkdigital-converse-gateway.php:822
+msgid "Here interface language of bank purchase can be regulated"
+msgstr "Այստեղ կարելի է կարգաբերել բանկային վճարման էջի ինտերֆեյսի լեզուն"
+
+#: wc-hkdigital-converse-gateway.php:787
+msgid "Here you can change the language of the plugin control panel."
+msgstr "Այստեղ կարող եք փոփոխել հավելման կառավարման վահանակի լեզուն։"
+
+#. Author of the plugin
+msgid "HK Digital Agency LLC"
+msgstr "HK Digital Agency LLC"
+
+#. Author URI of the plugin
+msgid "https://hkdigital.am"
+msgstr "https://hkdigital.am"
+
+#: wc-hkdigital-converse-gateway.php:1166
+msgid "Identification password"
+msgstr "Նույնականացման գաղտնաբառ"
+
+#: wc-hkdigital-converse-gateway.php:815
+msgid "Language"
+msgstr "Լեզու"
+
+#: wc-hkdigital-converse-gateway.php:937
+msgid "Links"
+msgstr "Հղումներ"
+
+#: wc-hkdigital-converse-gateway.php:911
+msgid "Live Settings"
+msgstr "Իրական կարգավորումներ "
+
+#: wc-hkdigital-converse-gateway.php:769
+#| msgid "Log HKD ARCA Gateway events, inside <code>"
+msgid ""
+"Log HKD ARCA Gateway events, inside <code>woocommerce/logs/converse."
+"txt</code>"
+msgstr ""
+"Սխալների գրանցմանը կարող եք հետևել <code>woocommerce/logs/converse.txt</code>"
+
+#: wc-hkdigital-converse-gateway.php:827
+msgid "Multi-Currency"
+msgstr "Բազմարժույթ"
+
+#: wc-hkdigital-converse-gateway.php:875
+msgid "New binding card text"
+msgstr "Կցագրման դաշտի անվանում"
+
+#: wc-hkdigital-converse-gateway.php:660
+msgid "No Saved Cards"
+msgstr "Պահված քարտեր չկան:"
+
+#: wc-hkdigital-converse-gateway.php:1125
+#| msgid "Online payment gateway"
+msgid "ONLINE PAYMENT GATEWAY"
+msgstr "Առցանց վճարման համակարգ"
+
+#: wc-hkdigital-converse-gateway.php:920
+msgid "Password"
+msgstr "Գաղտնաբառ"
+
+#: wc-hkdigital-converse-gateway.php:139 wc-hkdigital-converse-gateway.php:802
+msgid "Pay via credit card"
+msgstr "Վճարել քարտով"
+
+#. Description of the plugin
+msgid ""
+"Pay with Converse payment system. Please note that the payment will be made "
+"in Armenian Dram."
+msgstr ""
+"Վճարե՛ք/վճարումն իրականացրե՛ք Ձեր կրեդիտ/բանկային քարտով: Խնդրում ենք նկատի "
+"ունենալ՝ վճարումն իրականացվելու է հայկական դրամով:"
+
+#. Name of the plugin
+msgid "Payment Gateway for Converse Bank"
+msgstr "Payment Gateway for Converse Bank"
+
+#: wc-hkdigital-converse-gateway.php:1219
+msgid "Payment system"
+msgstr "Վճարային համակարգ"
+
+#: wc-hkdigital-converse-gateway.php:1404
+#: wc-hkdigital-converse-gateway.php:1430
+#: wc-hkdigital-converse-gateway.php:1437
+msgid "Please try again later."
+msgstr "Խնդրում ենք փորձել ավելի ուշ:"
+
+#: wc-hkdigital-converse-gateway.php:1000
+#: wc-hkdigital-converse-gateway.php:1024
+msgid "Please try again."
+msgstr "Խնդրում ենք կրկին փորձեք:"
+
+#: wc-hkdigital-converse-gateway.php:780 wc-hkdigital-converse-gateway.php:1147
+msgid "Plugin language"
+msgstr "Հավելման վահանակի լեզու"
+
+#: wc-hkdigital-converse-gateway.php:810
+msgid ""
+"Purchase by  credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Վճարումն իրականացրե՛ք Ձեր բանկային քարտով: Խնդրում ենք նկատի ունենալ՝ "
+"վճարումն իրականացվելու է հայկական դրամով:"
+
+#: wc-hkdigital-converse-gateway.php:140
+msgid ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Վճարումն իրականացրե՛ք Ձեր բանկային քարտով: Խնդրում ենք նկատի ունենալ՝ "
+"վճարումն իրականացվելու է հայկական դրամով:"
+
+#: wc-hkdigital-converse-gateway.php:142 wc-hkdigital-converse-gateway.php:166
+#: wc-hkdigital-converse-gateway.php:887
+msgid "Purchase safely by using your saved credit card"
+msgstr "Վճարեք ապահով՝ օգտագործելով Ձեր պահպանված քարտը:"
+
+#: wc-hkdigital-converse-gateway.php:867
+msgid "Save Card Admin"
+msgstr "Քարտի պահպանում"
+
+#: wc-hkdigital-converse-gateway.php:884
+msgid "Save card description text"
+msgstr "Կցագրված բանկային քարտերի նկարագիր"
+
+#: wc-hkdigital-converse-gateway.php:1192
+msgid "See bank offer"
+msgstr "Ծանոթանալ բանկի առաջարկին"
+
+#: wc-hkdigital-converse-gateway.php:1198
+msgid "See plugin possibilities"
+msgstr "Ծանոթանալ հավելման հնարավորություններին"
+
+#: wc-hkdigital-converse-gateway.php:1204
+msgid "See terms of usage"
+msgstr "Ծանոթանալ օգտագործման պայմաններին"
+
+#: wc-hkdigital-converse-gateway.php:1478
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+#: wc-hkdigital-converse-gateway.php:842
+msgid "Test mode"
+msgstr "Թեստային տարբերակ"
+
+#: wc-hkdigital-converse-gateway.php:854
+msgid "Test Password"
+msgstr "Թեստային գաղտնաբառ"
+
+#: wc-hkdigital-converse-gateway.php:850
+msgid "Test User Name"
+msgstr "Թեստային օգտանուն"
+
+#: wc-hkdigital-converse-gateway.php:830
+msgid ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+msgstr ""
+"Այս գործողությունը, բանկի կողմից թույլատրման դեպքում, կայքի միջոցով "
+"բազմարժույթ վճարումներ իրականացնելու հնարավորություն է ընձեռում:"
+
+#: wc-hkdigital-converse-gateway.php:932
+msgid ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+msgstr ""
+"Այս գործառույթը ակտիվացման ժամանակ կապահովի պատվերի գրանցման ժամանակ "
+"զամբյուղի պարունակությունը, եթե կայքի հաճախորդը որոշի փոփոխել վճարման "
+"տարբերակը։"
+
+#: wc-hkdigital-converse-gateway.php:799
+msgid "Title"
+msgstr "Անվանում"
+
+#: wc-hkdigital-converse-gateway.php:1179
+msgid "To see the identification terms, click"
+msgstr ""
+"Նույնականացման պայմաններին ծանոթանալու, ինչպես նաև ձեռք բերելու համար սեղմեք "
+
+#: wc-hkdigital-converse-gateway.php:845
+msgid ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+msgstr ""
+"Թեստային տարբերակը փորձարկելու համար անհրաժեշտ է մուտքագրել բանկի կողմից "
+"տրամադրված օգտանունը և գաղտնաբառը։"
+
+#: wc-hkdigital-converse-gateway.php:1316
+msgid "Token not valid"
+msgstr "Նույնականացման գաղտնաբառը սխալ է"
+
+#: wc-hkdigital-converse-gateway.php:859
+msgid "Two-stage Payment"
+msgstr "Վճարման հաստատման գործառույթ"
+
+#: wc-hkdigital-converse-gateway.php:862
+msgid ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+msgstr ""
+"Երկու փուլով. երբ վճարման ենթակա գումարը առաջին փուլում սառեցվում է գնորդի "
+"հաշվին, իսկ երկրորդ փուլում՝ ելքագրվում վերջինիս հաշվից:"
+
+#: wc-hkdigital-converse-gateway.php:812
+msgid "Type the description"
+msgstr "Մուտքագրել Նկարագրությունը"
+
+#: wc-hkdigital-converse-gateway.php:922
+msgid "Type the password"
+msgstr "Մուտքագրել գաղտնաբառը"
+
+#: wc-hkdigital-converse-gateway.php:876
+msgid "Type the save card checkbox text"
+msgstr "Մուտքագրել կցագրվող բանկային քարտի տեքստը"
+
+#: wc-hkdigital-converse-gateway.php:885
+msgid "Type the save card description text"
+msgstr "Մուտքագրել կցագրված բանկային քարտերի նկարագիրը"
+
+#: wc-hkdigital-converse-gateway.php:804
+msgid "Type the title"
+msgstr "Մուտքագրել Անվանումը"
+
+#: wc-hkdigital-converse-gateway.php:894
+msgid "Type the use new card text"
+msgstr "Մուտքագրել նոր քարտի օգտագործման համար անվանում"
+
+#: wc-hkdigital-converse-gateway.php:917
+msgid "Type the user name"
+msgstr "Մուտքագրել օգտանունը"
+
+#: wc-hkdigital-converse-gateway.php:143 wc-hkdigital-converse-gateway.php:167
+#: wc-hkdigital-converse-gateway.php:896
+msgid "Use a new credit card"
+msgstr "Օգտագործել նոր քարտ"
+
+#: wc-hkdigital-converse-gateway.php:893
+msgid "Use new card text"
+msgstr "Նոր քարտի տեքստը"
+
+#: wc-hkdigital-converse-gateway.php:925
+msgid "Useful functions"
+msgstr "Օգտակար գործառույթներ"
+
+#: wc-hkdigital-converse-gateway.php:1185
+msgid "Useful links"
+msgstr "Օգտակար հղումներ"
+
+#: wc-hkdigital-converse-gateway.php:809
+msgid ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+msgstr ""
+"Այս նկարագրությունը օգտագործողը(կայքի հաճախորդը) տեսնում է պատվերի գրանցման "
+"էջում՝ բանկային վճարման տարբերակի ժամանակ։"
+
+#: wc-hkdigital-converse-gateway.php:801
+msgid ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+msgstr ""
+"Օգտագործողն (կայքի հաճախորդը) այս վերնագիրը տեսնում է պատվերի գրանցման "
+"էջում՝ որպես վճարման տարբերակի անվանում"
+
+#: wc-hkdigital-converse-gateway.php:915
+msgid "User Name"
+msgstr "Իրական օգտանուն"
+
+#: wc-hkdigital-converse-gateway.php:641
+msgid "You can Delete Cards"
+msgstr "Անհրաժեշտության դեպքում ցանկից կարող եք ջնջել քարտը/երը:"
+
+#: wc-hkdigital-converse-gateway.php:1286
+#: wc-hkdigital-converse-gateway.php:1322
+msgid "You must fill token"
+msgstr ""
+"Խնդրում ենք անցնել նույնականացում։ Հարցերի դեպքում զանգահարել 033 779-779 "
+"հեռախոսահամարով։ "
+
+#: wc-hkdigital-converse-gateway.php:640
+msgid "Your card list"
+msgstr "Ստորև ներկայացված է Ձեր կողմից կցագրված քարտերի ցանկը:"
